@@ -1,4 +1,4 @@
-function theTruth(){
-  
+const theTruth = function() {
+  return 'true'
 }
 
